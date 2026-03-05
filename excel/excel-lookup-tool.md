@@ -1,3 +1,4 @@
+#Copilot prompt to generate lookup tool in new worksheets without manually writing formulas. Open the excel data file before using this prompt.Ensure the excel file has same header names as in the prompt
 
 
 you are a business analyst .Create a new worksheet named "Login Lookup Tool".
